@@ -28,7 +28,7 @@ What sets **DMX** apart from other clubs is our **project-based approach**. Our 
 
 ## 📂 Explore Our Project Domains
 
-- 🔗 [Web Development Projects](#)  
+- 🔗 [Web Development Projects](https://github.com/DMX-RGIT/Web-Development-Projects)  
 - 🔗 [Data Science & Machine Learning Projects](#)  
 - 🔗 [Cybersecurity Projects](#)  
 - 🔗 [DSA (Data Structures & Algorithms) Projects](#)
